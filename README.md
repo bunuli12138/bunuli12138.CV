@@ -1,5 +1,5 @@
 ## Brief Introduction
-> Backup of __ALL__ my curriculum vitae 
+> Backup of __ALL__ my __curriculum vitae__ 
 
 ## Self Introduction
 ```
@@ -25,5 +25,3 @@ Participated in some competitions, including TianChi, AIStudio, Kesci and Kaggle
 ### Natural Language (Intern) Engineer(Algorithm)
 
 ## Reference Linking
-
-
