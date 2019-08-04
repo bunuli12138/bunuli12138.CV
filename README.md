@@ -11,9 +11,9 @@ Participated in some competitions, including TianChi, AIStudio, Kesci and Kaggle
 
 ## Catalog
 
-| Time | Enterprise | Feedback | Result |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| Time | Enterprise | Path | Feedback | Result |
+| --- | --- | --- | --- | --- |
+| Aug.4th | Alibaba & ByteDance | Internal Recommendation | To Be Known | To Be Known |
 
 ## Job Wanted Field
 ### Data Analyse Engineer
